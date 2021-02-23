@@ -1,7 +1,7 @@
 # Wunderground.com History Data Crawler
 ⚠️ Please use it for study purposes only
 
-Powered by Selenium. No API key needed.
+Powered by Selenium. No API key is needed.
 
 ## Requirements
 ```
